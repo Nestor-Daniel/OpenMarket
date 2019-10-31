@@ -1,0 +1,17 @@
+.redButton {
+  background-color: red;
+  border-color: red;
+  color: white;
+  margin: 5px;
+}
+
+.addButton {
+  background-color: green;
+  border-color: green;
+  color: white;
+  margin: 5px;
+}
+
+.marginAlign {
+  margin: 5px;
+}
