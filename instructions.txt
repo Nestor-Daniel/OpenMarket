@@ -1,1 +1,0 @@
-to run this program open a Node.js command prompt and run the following command: npm start
